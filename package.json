@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-komutsuz-altyapi",
+  "version": "1.0.0",
+  "main": "star.js",
+  "description": "Star-Code-komutsuz-altyapi",
+  "scripts": {
+    "start": "node star.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3",
+    "wio.db": "^4.0.21"
+  },
+  "license": "MIT",
+  "keywords": [
+    "StarCode"
+  ]
+}
